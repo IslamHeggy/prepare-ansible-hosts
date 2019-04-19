@@ -1,4 +1,4 @@
-prepare_ansible_hosts
+prepare-ansible-hosts
 ========================
 This script prepares ansible hosts file by checking a list of provided hosts for available machines.
 
